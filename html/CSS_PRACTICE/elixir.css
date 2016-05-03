@@ -1,0 +1,53 @@
+p#green01 {
+    background-color: #a3e155;
+    margin: 50px;
+    padding: 50px;
+    border-color: green;
+    border-width: 1px;
+    border-style: dotted;
+    border-radius: 20px;
+    background-image: url(coffee.png);
+    background-origin:
+}
+
+#green00 {
+    color: green;
+    text-align: center;
+    font-size: 30px;
+}
+
+p.blue {
+    background-color: #7ec1fd;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: black;
+    margin: 50px;
+    border-width: 1px;
+    padding: 50px;
+    line-height: 40px;
+    text-align: center;
+    background-image: url(http://s6.gigacircle.com/media/s6_53d77f0018e2a.jpg);
+    background-position: center;
+}
+
+.blue {
+    color: blue
+}
+
+body {
+    font-family: Dosis, Helvetica, arial, sans-serif;
+}
+
+.font01 {
+    font-family: Dosis, sans-serif;
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    margin: 50px;
+    padding: 30px;
+}
+
+
